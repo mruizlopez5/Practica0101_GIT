@@ -10,7 +10,7 @@ def MiFuncionSuma(A, B, C, imprime = True):
     return resultado
 
 
-a          = 4
+a = 4
 variable_b = 5
 var_c      = 10
 
