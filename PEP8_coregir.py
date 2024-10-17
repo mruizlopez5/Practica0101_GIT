@@ -3,7 +3,7 @@ import os
 import sys
 
 
-def MiFuncionSuma(A, B, C, imprime = True):
+def MiFuncionSuma(A, B, C, imprime=True):
     resultado = A + B + C
     if imprime != False:
         print(resultado)
