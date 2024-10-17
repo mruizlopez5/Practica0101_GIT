@@ -1,5 +1,6 @@
 # script.py
-import os, sys
+import os
+import sys
 def MiFuncionSuma(A, B, C, imprime = True):
     resultado=A+B+C
     if imprime != False:
